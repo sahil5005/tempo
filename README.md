@@ -1,1 +1,7 @@
 # tempo
+
+```
+
+npm install ons
+
+```
